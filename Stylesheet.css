@@ -1,0 +1,44 @@
+
+ 
+h1  {
+    font-size: 72px;
+    Margin-top: 100px;
+   text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: black;
+}
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: #044459;
+}
+nav{
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: #bde577;
+
+
+}
+img {
+    border-radius: 0.5cm;
+    width: 450px;
+    margin-top: 100px;
+    Margin-left: 100px;
+    Margin-bottom: 100px;
+    float: left
+
+    
+
+    
+}
+footer{
+margin-bottom: 50 px;
+}
+    
+    
+
+body { width: 1000px;
+}
